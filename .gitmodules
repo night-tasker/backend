@@ -1,3 +1,6 @@
 [submodule "identity"]
 	path = identity
 	url = https://github.com/night-tasker/identity
+[submodule "common"]
+	path = common
+	url = https://github.com/night-tasker/common
