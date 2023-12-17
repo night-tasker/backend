@@ -4,3 +4,6 @@
 [submodule "common"]
 	path = common
 	url = https://github.com/night-tasker/common
+[submodule "user-hub"]
+	path = user-hub
+	url = https://github.com/night-tasker/user-hub
