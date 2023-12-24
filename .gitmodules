@@ -7,3 +7,6 @@
 [submodule "user-hub"]
 	path = user-hub
 	url = https://github.com/night-tasker/user-hub
+[submodule "api-gateways"]
+	path = api-gateways
+	url = https://github.com/night-tasker/api-gateways
