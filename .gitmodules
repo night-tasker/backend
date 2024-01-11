@@ -10,3 +10,6 @@
 [submodule "api-gateways"]
 	path = api-gateways
 	url = https://github.com/night-tasker/api-gateways
+[submodule "storage"]
+	path = storage
+	url = https://github.com/night-tasker/storage
