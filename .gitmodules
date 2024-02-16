@@ -13,3 +13,6 @@
 [submodule "storage"]
 	path = storage
 	url = https://github.com/night-tasker/storage
+[submodule "task-tracker"]
+	path = task-tracker
+	url = https://github.com/night-tasker/task-tracker
